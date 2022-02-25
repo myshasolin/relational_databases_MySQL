@@ -1,1 +1,1 @@
-# basics_of_relational_databases-_MySQL
+# basics_of_relational_databases_MySQL
