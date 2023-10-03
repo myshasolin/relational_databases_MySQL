@@ -1,6 +1,6 @@
 <center>
   <h1>
-    <a href="https://github.com/myshasolin/streaming_data_processing">
+    <a href="https://github.com/myshasolin/relational_databases_MySQL">
       здесь упражнения и самостоятельные проекты, выполненные в рамках курса "Реляционные базы данных, MySQL" - DDL, DML, DCL и TCL-команды, от простого (2) к сложному (12): 
     </a>
   </h1>
